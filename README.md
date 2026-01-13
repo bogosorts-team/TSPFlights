@@ -2,7 +2,7 @@
 
 *Academic project focused on applying graph theory and optimization algorithms to a real-world aviation scenario.*
 
-[Click here to view](https://bogosorts-team.github.io/TSPFlights/)
+[Click here to view](https://tspflights.onrender.com/)
 
 ## Project Overview
 
