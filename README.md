@@ -1,7 +1,8 @@
 # TSPFlights – Air Route Optimization Using Graph Theory
 
 *Academic project focused on applying graph theory and optimization algorithms to a real-world aviation scenario.*
-[Click here](https://bogosorts-team.github.io/TSPFlights/)
+
+[Click here to view](https://bogosorts-team.github.io/TSPFlights/)
 
 ## Project Overview
 
@@ -80,31 +81,6 @@ The project uses the OpenFlights dataset, which contains real-world aviation dat
   * Original route (gray)
   * Optimized route (green)
 * Distance metrics and optimization percentage
-
----
-
-## How to Run the Project
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/bogosorts-team/TSPFlights.git
-   ```
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the application:
-
-   ```bash
-   python app.py
-   ```
-4. Open in your browser:
-
-   ```
-   http://localhost:5000
-   ```
 
 ---
 
